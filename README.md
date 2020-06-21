@@ -2,6 +2,8 @@
 
 <img src="logs/demo.png" width="400" height="400">
 
+The entire algorithm includes a car plate detection algorithm (using image segmentation) and a car plate recognition algorithm (CTC loss). The accuracy of this algorithm is 98.92% based on the data given.
+
 The models can be downloaded from pan.baidu.com:
 
 ```
