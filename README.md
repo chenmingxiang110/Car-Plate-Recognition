@@ -1,5 +1,7 @@
 # Car-Plate-Recognition
 
+<img src="logs/demo.png" width="400" height="400">
+
 The models can be downloaded from pan.baidu.com:
 
 ```
@@ -23,3 +25,5 @@ Please cite the paper if you are willing to use the dataset
   year={2018}
 }
 ```
+
+The downloaded data should be put under the CCPD2019 directory.
