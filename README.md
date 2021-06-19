@@ -28,4 +28,4 @@ Please cite the paper if you are willing to use the dataset
 }
 ```
 
-The downloaded data should be put under the CCPD2019 directory.
+The downloaded data should be put under the "./CCPD2019" directory.
